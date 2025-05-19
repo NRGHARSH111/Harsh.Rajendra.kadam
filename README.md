@@ -11,6 +11,7 @@ I am actively expanding my knowledge in:
 - HTML & CSS
 - JavaScript & jQuery
 - Core programming concepts and problem-solving
+- Python
 
 ---
 
